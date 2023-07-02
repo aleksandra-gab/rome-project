@@ -148,6 +148,11 @@ main p {
   opacity: 0.7;
 }
 
+iframe {
+  margin: 30px auto;
+  display: block;
+}
+
 .container {
   max-width: 1400px;
   margin: 0 auto;
@@ -198,7 +203,7 @@ main p {
 }
 
 .img-responsive {
-  max-width: 100%;
+  width: 100%;
   display: block;
 }
 
