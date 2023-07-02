@@ -254,4 +254,8 @@ main p {
   .embed {
     aspect-ratio: 16 / 9;
   }
+
+  .main-header {
+    text-align: center;
+  }
 }
