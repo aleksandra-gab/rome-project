@@ -177,7 +177,8 @@ main p {
 
 .pinterest-embed {
   display: block;
-  margin: 30px 0;
+  margin: 30px auto;
+  width: 100%;
 }
 
 .card {
