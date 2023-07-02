@@ -64,13 +64,13 @@ footer {
 footer h3 {
   font-weight: 700;
   font-size: 20px;
-  line-height: 30px;
+  line-height: 1.5;
 }
 
 footer p {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   opacity: 0.9;
 }
 
@@ -142,7 +142,7 @@ main h5 {
 main p {
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 1.5;
   color: #272044;
   opacity: 0.7;
